@@ -1,3 +1,9 @@
-Income, PayCheck, PayCheck, 500
-Expense, Food, Food, 50
-Expense, Food, Food, 50
+Expense, Shopping, Food, -500, -500
+Income,Pay,PayCheck,1000,500
+Expense,"Car Repair",Miscellaneous,250,250
+Expense,"Car Repair",Miscellaneous,250,0
+Income,Loan,PayCheck,2000,2000
+Income,Lottery,PayCheck,10,2010
+Expense,Laundry,Miscellaneous,50,1960
+Income,Pay,PayCheck,100,100
+Income,Pay,PayCheck,100,200
